@@ -2,16 +2,17 @@
 
 ⭐️ **About Me:**
 - 🎓 I'm a Computer Science Major at Colgate University and an aspiring software enginner
-- 🫖 When I'm not working, you'll probably find me sipping on tea in a nearby coffee shop
-- 🧱 I'm learning how to 3D print and use Blender!
+- 🍗 My favorite tradition is that best friend and I grab chicken wings every Friday
+- 🧱 Currently learning how to 3D print and use Blender!
 
 💻 **Tech Stack:**
-- 📚 Languages: Java, Python, JavaScript
-- 🛠️ Tools and Frameworks: React.js, Next.js, Spring Boot, SQL, Visual Studio Code
+- 📚 Languages: Java, Python, JavaScript, TypeScript, SQL
+- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Next.js, Spring Boot, Visual Studio Code
 
 🚀 **Projects:**
 - 🎬 My first project was a movie/tv show finder and since then have embarked on more challenges!
-- 🛒 Currently, I'm building an e-commerce platform for a friend's shop
+- 🐉 My favorite project is called "Dragon's Paradise" and it won "Best Creative Theme" :)
+- 🛒 I'm currently building an e-commerce platform for a friend
 
 🙌 **Let's Connect:**
 - ✉️ Find me on LinkedIn or send me a message here!
