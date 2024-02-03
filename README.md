@@ -11,7 +11,7 @@
 
 🚀 **Projects:**
 - 🎬 My first project was a movie/tv show finder and since then have embarked on more challenges!
-- 🐉 My favorite project is called "Dragon's Paradise" and it won "Best Creative Theme" :)
+- 🐉 My favorite project is a game called "Dragon's Paradise" and it won "Best Creative Theme" :)
 - 🛒 I'm currently building an e-commerce platform for a friend
 
 🙌 **Let's Connect:**
