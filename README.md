@@ -2,7 +2,7 @@
 
 ⭐️ **About Me:**
 - 🎓 I'm a Computer Science Major at Colgate University and an aspiring software enginner
-- 🍗 My favorite tradition is that best friend and I grab chicken wings every Friday
+- 🍗 My favorite tradition is that my best friend and I grab chicken wings every Friday
 - 🧱 Currently learning how to 3D print and use Blender!
 
 💻 **Tech Stack:**
