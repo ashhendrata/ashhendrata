@@ -10,6 +10,7 @@
 - 🛠️ Tools and Frameworks: HTML/CSS, React.js, Next.js, Spring Boot, Visual Studio Code
 
 🚀 **Projects:**
+- 🎉 As one of GitHub's All In Open Source fellows, I appreciate interacting with others and exchanging ideas
 - 🎬 My first project was a movie/tv show finder and since then have embarked on more challenges!
 - 🐉 My favorite project is a game called "Dragon's Paradise" and it won "Best Creative Theme" :)
 - 🛒 I'm currently building an e-commerce platform for a friend
