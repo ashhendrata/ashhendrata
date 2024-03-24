@@ -7,7 +7,7 @@
 
 💻 **Tech Stack:**
 - 📚 Languages: Java, Python, JavaScript, TypeScript, SQL, Swift
-- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Next.js, Spring Boot, Git
+- 🛠️ Tools and Frameworks: HTML/CSS, React.js, Next.js, Spring Boot, Git, Xcode
 
 🚀 **Projects:**
 - 🎉 As one of GitHub's All In Open Source fellows, I appreciate interacting with others and exchanging ideas
