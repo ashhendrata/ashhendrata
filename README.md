@@ -1,7 +1,7 @@
 ### Hi, I'm Ashley Hendrata 👋
 
 ⭐️ **About Me:**
-- 🎓 I'm a Computer Science Major at Colgate University and an aspiring software enginner
+- 🎓 I'm a Computer Science Major at Colgate University and love creating experiences for others
 - 🍗 My favorite tradition is that my best friend and I grab chicken wings every Friday
 - 🧱 Currently learning how to 3D print and use Blender!
 
