@@ -10,7 +10,7 @@
 - 🛠️ Tools and Frameworks: HTML/CSS, React.js, Next.js, Spring Boot, Git, Xcode, Android Studio
 
 🚀 **Projects:**
-- 🎉 As one of GitHub's All In Open Source graduates, I appreciate interacting with others and exchanging ideas on platforms like these.
+- 🎉 As a GitHub's All In Open Source graduate, I appreciate interacting with others and exchanging ideas on platforms like this
 - 🎬 My first project was a movie/tv show finder and since then have embarked on more challenges!
 - 🐉 My favorite project is a game called "Dragon's Paradise" and it won "Best Creative Theme" :)
 - 🛒 I'm currently building an e-commerce platform for a friend.
