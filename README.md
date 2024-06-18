@@ -2,7 +2,7 @@
 
 ⭐️ **About Me:**
 - 🎓 I'm a Computer Science Major at Colgate University and I love creating experiences!
-- 🍗 My favorite tradition is that my best friend and I grab chicken wings every Friday :)
+- 🚗 I love adventure. From cafes and gardens to rooftops and museums, I'm always up for exploration!
 - 🧱 Currently learning how to 3D print and use Blender!
 
 💻 **Tech Stack:**
